@@ -5,3 +5,4 @@ Harus menguasai apa itu Javascript
 Harus menguasai apa itu Jquery
 Harus menguasai apa itu git dan github
 membuat satu vlog
+mencoba membuat tutorial HTML dasar
