@@ -6,3 +6,4 @@ Harus menguasai apa itu Jquery
 Harus menguasai apa itu git dan github
 membuat satu vlog
 mencoba membuat tutorial HTML dasar
+mencoba untuk memahami github
