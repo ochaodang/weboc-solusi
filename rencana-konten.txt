@@ -1,0 +1,5 @@
+
+permudahkan jalanmu ya rabbi dalam proses untuk membuat weboc sederhana
+- able to process in the HTML
+-able to process in the of PHP
+-able to process in the of github of git  
