@@ -4,5 +4,7 @@ Selalu semangat terus setiap apa yang diimpikan
 - Learn to study PHP
 - Learn to study Javascript
 - Learn to study Jquery
+- Learn to study Pthon
+
 
 
